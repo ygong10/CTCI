@@ -1,3 +1,6 @@
+#include <iostream>
+#include <string>
+
 namespace Color {
     enum Code {
         FG_RED = 31,
