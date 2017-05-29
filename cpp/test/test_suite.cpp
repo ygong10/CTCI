@@ -29,6 +29,8 @@ namespace test_suite {
 			index++;
 		}
 
+		failed_tests = total_tests - passed_tests;
+
 		std::cout << std:: endl;
 		std::cout << "Statistics" << std::endl;
 		std::cout << "----------------------------------------" << std::endl;
