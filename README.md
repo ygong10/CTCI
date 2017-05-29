@@ -1,2 +1,2 @@
-# CppPlayground
-Attempt to implement all STLs and algorithms using C++
+# CTCI
+Solutions to Cracking the Coding Interview 
