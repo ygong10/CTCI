@@ -5,7 +5,6 @@ def isPermutation(str1, str2):
 		return False
 
 	dict1 = {}
-	dict2 = {}
 
 	for s1 in str1:
 		if s1 in dict1:
